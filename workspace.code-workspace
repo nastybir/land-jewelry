@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "land-jewelry",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../Desktop/jewelry-site2/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "land-jewelry",
+		"liveServer.settings.port": 5501
+	}
+}
