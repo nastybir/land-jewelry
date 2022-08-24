@@ -340,6 +340,11 @@ text-align: center;
     
 }
 
+.footer-photo{
+    margin-left: 345px;
+    padding-top: 121px;
+}
+
 .footer-title{
     text-align: center;
     margin-left: 59px;
@@ -357,6 +362,31 @@ color: #002D69;
 
 }
 
+.button-ft{
+    align-items: center;
+    text-align: center;
+}
+
+
+.fotter-btn{
+    margin-top: 35px;
+    background-color: #002D69;
+    border-radius: 4px;
+    font-family: Lato,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 1.48872e-08px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    width: 170.33px;
+    height: 42px;
+
+}
 .stay-text{
     text-align: center;
     margin-top: 8px;
